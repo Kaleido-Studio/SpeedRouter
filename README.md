@@ -7,7 +7,7 @@ A custom routing plugin & client-side mod project for Velocity servers.
 ## Getting Started
 
 The setup is pretty standard.
-First, download the plugin from [Jenkins](https://build.zhufucdev.com/job/Speed%20Router/)
+First, download server-*.jar from [Jenkins](https://build.zhufucdev.com/job/Speed%20Router/)
 and place it in `[velocity root]/plugins`.
 
 Next is to create some `[velocity root]/plugins/speed-router/config.yaml`, and follow
